@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there, I'm Rajat !
+###  Hi there, I'm Rajat !
 #### Competitive programmer and Web Devloper
 I am a Final Year Student Persuing Engineering in Information Technology
  I have a keen interest in Problem Solving.
