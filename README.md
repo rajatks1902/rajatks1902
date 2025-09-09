@@ -25,9 +25,6 @@ I build scalable, production-grade backend systems and microservices, focusing o
 | **Codeforces** | [rajat_1902](https://codeforces.com/profile/rajat_1902)       | Rated 1275 (Pupil)                        |
 | **CodeChef**   | [rajat_1902](https://www.codechef.com/users/rajat_1902)       | 4★ (1853)                                 |
 | **HackerRank** | [RKS_07](https://www.hackerrank.com/RKS__07)                  | 6★ Problem Solving Badge                 |
-| **GitHub**     | [rajatks1902](https://github.com/rajatks1902)                 | Open-source projects                     |
-| **GitLab**     | [rajatks1902](https://gitlab.com/rajatks1902)                 | Work projects & experiments              |
-
 ---
 
 ## 📫 Contact
