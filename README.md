@@ -1,13 +1,31 @@
-###  Hi there, I'm Rajat !
-#### Competitive programmer and Web Devloper
-I am a Final Year Student Persuing Engineering in Information Technology
- I have a keen interest in Problem Solving.
-I am 4 star Coder at Codechef and Pupil at Codeforces
-Besides that, i have done multiple project on React and JavaScript
-
-Skills: DSA | C++ | SQL |  REACT | JavaScript | 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCcSu42m7xhCumIKkKupnpRA) 
+<p>
+  <h1 align="center"><b>Hello there, I'm Rajat Singh 👋</b></h1>
+</p>
 
 
+![](https://komarev.com/ghpvc/?username=Coding-Decoded)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rajatks1902)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rajat-kumar-singh-a816791a5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rajatks1902.github.io/rks07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rajat_1902/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/rajat_1902)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/RKS__07?hr_r=1)  
+### :zap:  Github Stats
 
+[![GitLab Stats](https://gitlab-stats-hub.vercel.app/api?username=rajatks1902)](https://gitlab.com/rajatks1902)
+
+
+
+<!--
+**Sunchit/Sunchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> 
+Here are some ideas to get you started:
+
+[![Coding Decoded's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sunchit&theme=dracula)](https://github.com/Sunchit/Coding-Decoded)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
