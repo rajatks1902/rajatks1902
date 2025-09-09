@@ -3,13 +3,38 @@
   <h1 align="center"><b>Hello there, I'm Rajat Singh 👋</b></h1>
 </p>
 
+💻 **Software Development Engineer II @ Thales DIS** | Backend Engineer | Java | Spring Boot | Microservices  
 
-![](https://komarev.com/ghpvc/?username=Coding-Decoded)
+I build scalable, production-grade backend systems and microservices, focusing on automation, performance optimization, and cloud-native solutions.
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### :zap:  Github Stats
 
-[![GitLab Stats](https://gitlab-stats-hub.vercel.app/api?username=rajatks1902)](https://gitlab.com/rajatks1902)
+## 🌐 Coding Profiles
 
+| Platform       | Profile Link                                                   | Highlights                                 |
+|---------------|---------------------------------------------------------------|-------------------------------------------|
+| **LeetCode**   | [rajat_1902](https://leetcode.com/u/rajat_1902)               | Top 13%, 1,694+ problems solved          |
+| **Codeforces** | [rajat_1902](https://codeforces.com/profile/rajat_1902)       | Rated 1275 (Pupil)                        |
+| **CodeChef**   | [rajat_1902](https://www.codechef.com/users/rajat_1902)       | 4★ (1853)                                 |
+| **HackerRank** | [RKS_07](https://www.hackerrank.com/RKS__07)                  | 6★ Problem Solving Badge                 |
+| **GitHub**     | [rajatks1902](https://github.com/rajatks1902)                 | Open-source projects                     |
+| **GitLab**     | [rajatks1902](https://gitlab.com/rajatks1902)                 | Work projects & experiments              |
+
+---
+
+## 📫 Contact
+- 📧 **Email**: rajatk.singh1902@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/rajat-kumar-singh-a816791a5)  
+
+---
 
 
 <!--
