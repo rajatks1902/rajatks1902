@@ -19,7 +19,7 @@ I build scalable, production-grade backend systems and microservices, focusing o
 
 | Platform       | Profile Link                                                   | Highlights                                 |
 |---------------|---------------------------------------------------------------|-------------------------------------------|
-| **LeetCode**   | [rajat_1902](https://leetcode.com/u/rajat_1902)               | Top 13%, 1,694+ problems solved          |
+| **LeetCode**   | [rajat_1902](https://leetcode.com/u/rajat_1902)               | Top 13%          |
 | **Codeforces** | [rajat_1902](https://codeforces.com/profile/rajat_1902)       | Rated 1275 (Pupil)                        |
 | **CodeChef**   | [rajat_1902](https://www.codechef.com/users/rajat_1902)       | 4★ (1853)                                 |
 | **HackerRank** | [RKS_07](https://www.hackerrank.com/RKS__07)                  | 6★ Problem Solving Badge                 |
